@@ -1,2 +1,5 @@
 # Bangladesh-Healthcare-Violence
-This repository contains replication code for Gayeong Song's Econ 80 (Dartmouth College) Paper: Does Violence Hurt Availability and Readiness of Healthcare in Bangladesh?
+This repository contains replication code for Gayeong Song's Econ 80 (Dartmouth College) Paper: Does Violence Hurt Availability and Readiness of Healthcare?
+
+Abstract:
+Violence has a detrimental impact on health outcomes. To understand the mechanism of health facilities behind these worse outcomes, I evaluate the impact of violence on availability and readiness of healthcare facilities in Bangladesh. Unlike previous papers, I combine two waves of geo- coordinated USAID Service Provision Assessment (SPA) data using spatial grid cells to employ a fixed effects design. I find that a relative increase on the level of violence has a significant and harmful impact on the availability of basic equipment as well as medicine. Hostile types of violence, such as armed clashes and riots, magnify this negative effect compared to peaceful protests. On the other hand, peaceful protests related to political instability disrupt the availability of disposable medical supplies.
